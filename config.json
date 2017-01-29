@@ -1,0 +1,108 @@
+{
+    "connections": [
+        {
+            "name": "GhostNetwork",
+            "connection": {
+                "server": "irc.bluntcave.com",
+                "port": 6667,
+                "ssl": false,
+                "ignore_cert": true,
+                "password": ""
+            },
+            "nick": "Mary",
+            "user": "mary_jane",
+            "avoid_notices": false,
+            "channels": [
+                "#smoke",
+                "#script",
+		"#sysnode"
+            ],
+            "disabled_commands": [],
+            "acls": {},
+            "nickserv": {
+                "enabled": true,
+                "nickserv_password": "5y38rg",
+                "nickserv_user": "",
+                "nickserv_name": "nickserv",
+                "nickserv_command": "IDENTIFY"
+            },
+            "ratelimit": {
+                "max_tokens": 17.5,
+                "restore_rate": 2.5,
+                "message_cost": 5,
+                "strict": true
+            },
+            "permissions": {
+                "admins": {
+                    "perms": [
+                        "addfactoid",
+                        "delfactoid",
+                        "ignore",
+                        "botcontrol",
+                        "plpaste",
+                        "permissions_users",
+                        "op"
+                    ],
+                    "users": [
+                        "Buddha!~fortyssh@forty.bluntcave.com"
+                    ]
+                },
+                "moderators": {
+                    "perms": [
+                        "addfactoid",
+                        "delfactoid",
+                        "ignore"
+                    ],
+                    "users": [
+                        "examplec!user@example.com"
+                    ]
+                }
+            },
+            "plugins": {},
+            "command_prefix": "."
+        }
+    ],
+    "api_keys": {
+        "tvdb": "82A2673ADB1557F0",
+        "bing_azure": "",
+        "wolframalpha": "",
+        "lastfm": "e4767772fae6a889278cae6ac7d1c4a4",
+        "rottentomatoes": "",
+        "soundcloud": "",
+        "twitter_consumer_key": "h1M3mKmyczBtzMwRqogL0YnTY",
+        "twitter_consumer_secret": "OdW2aXsztqccLU02cJJm0IXVDFfhWwOYBZYr7cU2T8LBqCgkX4",
+        "twitter_access_token": "",
+        "twitter_access_secret": "",
+        "imgur_client_id": "0ffe76b81c1efe4",
+        "imgur_client_secret": "e6967658dd4e0686429bcb1d5baec579b70a1127",
+        "wunderground": "975a36eeaa99e9ce",
+        "rdio_key": "",
+        "rdio_secret": "",
+        "google_dev_key": "AIzaSyCzLRjBZP8ISO1o1_WxBQIOWn_EEl97vLM",
+        "google_cse_id": "005707191908850700074:cz0omxrezka",
+        "octopart": "",
+        "wordnik": "1677a24aaed601d8c90000bd459095b7afb9ec860e994b062",
+        "yandex_translate": "",
+        "lyricsnmusic": ""
+    },
+    "database": "sqlite:///cloudbot.db",
+    "plugin_loading": {
+        "use_whitelist": false,
+        "blacklist": [
+            "update"
+        ],
+        "whitelist": []
+    },
+    "reloading": {
+        "config_reloading": true,
+        "plugin_reloading": true
+    },
+    "logging": {
+        "console_debug": false,
+        "file_debug": true,
+        "show_plugin_loading": true,
+        "show_motd": false,
+        "show_server_info": false,
+        "raw_file_log": false
+    }
+}

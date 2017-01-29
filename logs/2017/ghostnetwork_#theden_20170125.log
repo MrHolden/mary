@@ -1,0 +1,43 @@
+[GhostNetwork:#theden] <Buddha> .beer bud light
+[GhostNetwork:#theden] <Laz> sup for5aken
+[GhostNetwork:#theden] <Buddha> .beer bud light
+[GhostNetwork:#theden] <Laz> .beer steel reserve
+[GhostNetwork:#theden] <Buddha> .beer bud light
+[GhostNetwork:#theden] <Buddha> that was just rude
+[GhostNetwork:#theden] <Laz> lol
+[GhostNetwork:#theden] <Buddha> .beer bud light
+[GhostNetwork:#theden] <Laz> where's my boy lemons at
+[GhostNetwork:#theden] <Laz> .seen lemen
+[GhostNetwork:#theden] <pig> (Laz) I've never seen lemen talking in this channel.
+[GhostNetwork:#theden] <Buddha> sorry pig is a test bot
+[GhostNetwork:#theden] <Buddha> .join #script
+[GhostNetwork:#theden] <Buddha> Laz
+[GhostNetwork:#theden] <Buddha> I finally built my own api script. It's not perfect but it's starting to work
+[GhostNetwork:#theden] <Buddha> .beer bud light
+[GhostNetwork:#theden] <pig> (Buddha) Beer: Bud Light, Style: American-Style Light (Low Calorie) Lager, ABV: 4.2, Availability: Year Round, Details: Introduced nationally in 1982, Bud Light is brewed using a blend of domestic and imported hops as well as a combination of barley malts and rice.  It contains more malt and hops by ratio of ingredients than Budweiser, which gives the brew a distinctively clean and crisp taste.
+[GhostNetwork:#theden] <Buddha> FUCK YEAH
+[GhostNetwork:#theden] <Laz> lets test this
+[GhostNetwork:#theden] <Laz> .beer heady topper
+[GhostNetwork:#theden] <Buddha> hmm
+[GhostNetwork:#theden] <Buddha> .beer Sweet Action
+[GhostNetwork:#theden] <Laz> .beer steel reserve
+[GhostNetwork:#theden] <Buddha> .beer six point sweet action
+[GhostNetwork:#theden] <Buddha> .beer corona
+[GhostNetwork:#theden] <Laz> weird
+[GhostNetwork:#theden] <Buddha> hmm, I don't know what's wrong then
+[GhostNetwork:#theden] <Buddha> .beer dos xx
+[GhostNetwork:#theden] <Buddha> ?
+[GhostNetwork:#theden] <Laz> .beer dos equis
+[GhostNetwork:#theden] <Buddha> oh I see now
+[GhostNetwork:#theden] <Buddha> some of the beers don't have every field, so I need to build in dependencies
+[GhostNetwork:#theden] <Buddha> ok, but at least I know it works
+[GhostNetwork:#theden] <Buddha> fuck yeah
+[GhostNetwork:#theden] <Buddha> I wish it could use Beer Advocate but it's using a site called BreweryDB
+[GhostNetwork:#theden] <Buddha> they have a lot of brewer info and style info as well
+[GhostNetwork:#theden] <Laz> weird
+[GhostNetwork:#theden] <Buddha> .beer dos equis amber
+[GhostNetwork:#theden] <pig> (Buddha) Beer: Dos Equis Amber, Style: Vienna-Style Lager, ABV: 4.7, Availability: Year Round, Details: A robust, classic Vienna-style lager with a full body. A beer with brawn from Germany, swagger from Mexico, and the finest North American pale and roasted malts. An amber-colored refreshment that’s adventurous enough to be distinctly flavorful. A hot-blooded redhead that’s best enjoyed ice-cold.
+[GhostNetwork:#theden] <Buddha> O_o
+[GhostNetwork:#theden] <Buddha> interesting
+[GhostNetwork:#theden] <Buddha> .beer heineken
+[GhostNetwork:#theden] <Buddha> .restart beer5
